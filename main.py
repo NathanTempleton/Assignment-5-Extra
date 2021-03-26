@@ -6,11 +6,11 @@ area = 0
 circumference = 0
 
 print(
-  "Welcome to my calculator, here you can can calculate the circumference or area of a circle."
-  )
+    "Welcome to my calculator, here you can can calculate the circumference or area of a circle."
+)
 playerChoice = input(
-  "Would you like to calculate the area or the circumference of the circle: "
-  )
+    "Would you like to calculate the area or the circumference of the circle: "
+)
 
 if playerChoice.lower() == "area":
     playerChoice = int(input("Please input your diameter: "))
