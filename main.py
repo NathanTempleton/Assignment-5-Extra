@@ -1,6 +1,8 @@
 # When running this code there may be an issue in the replit preview, this is only an issue in replt.
 
-# When running take this with caution and if it doesn't work attempt to run it in a different program, as it will work there.
+# When running take this with caution and if it doesn't work attempt to run it in a different program.
+
+# It should work there.
 import math
 
 playerChoice = ""
